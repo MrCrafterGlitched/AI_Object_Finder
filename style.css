@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+.heading{
+font-size: large;
+width: 100%;
+margin: 0;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    float: none;
+    font-size: medium;
+    line-height: normal;
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+    font-weight: bold;
+    color: wheat;
+}
+canvas{
+    border: 2px solid black;
+    margin-top: 100;
+    box-shadow: 5px 4px 5px gray;
+}
